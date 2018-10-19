@@ -1,3 +1,3 @@
 # hello-world
 
-hello, my name is simply
+hello, my name is simply JS
